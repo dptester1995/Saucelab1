@@ -1,0 +1,1146 @@
+[INFO ] 2023-02-21 00:45:19.321 [main] Framework - URL Opened
+[INFO ] 2023-02-21 00:45:19.389 [main] Framework - Browser Closed.
+[INFO ] 2023-02-21 01:08:15.709 [main] Framework - URL Opened
+[INFO ] 2023-02-21 01:08:17.025 [main] Framework - Username entered.
+[INFO ] 2023-02-21 01:08:17.160 [main] Framework - Password entered.
+[INFO ] 2023-02-21 01:08:17.501 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 01:08:17.502 [main] Framework - Browser Closed.
+[INFO ] 2023-02-21 01:09:50.776 [main] Framework - URL Opened
+[INFO ] 2023-02-21 01:09:51.090 [main] Framework - Username entered.
+[INFO ] 2023-02-21 01:09:51.249 [main] Framework - Password entered.
+[INFO ] 2023-02-21 01:09:51.427 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 01:09:51.680 [main] Framework - Browser Closed.
+[INFO ] 2023-02-21 15:59:30.620 [main] Framework - URL Opened
+[INFO ] 2023-02-21 15:59:31.265 [main] Framework - Username entered.
+[INFO ] 2023-02-21 15:59:31.338 [main] Framework - Password entered.
+[INFO ] 2023-02-21 15:59:31.651 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 15:59:31.652 [main] Framework - Browser Closed.
+[INFO ] 2023-02-21 20:39:27.105 [main] Framework - URL Opened
+[INFO ] 2023-02-21 20:39:27.604 [main] Framework - URL Opened
+[INFO ] 2023-02-21 20:39:29.659 [main] Framework - Username entered.
+[INFO ] 2023-02-21 20:39:29.716 [main] Framework - Username entered.
+[INFO ] 2023-02-21 20:39:29.820 [main] Framework - Password entered.
+[INFO ] 2023-02-21 20:39:29.987 [main] Framework - Password entered.
+[INFO ] 2023-02-21 20:39:30.773 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 20:39:30.778 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 20:39:30.818 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-21 20:39:30.829 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-21 20:44:48.934 [main] Framework - URL Opened
+[INFO ] 2023-02-21 20:44:49.120 [main] Framework - Username entered.
+[INFO ] 2023-02-21 20:44:49.239 [main] Framework - Password entered.
+[INFO ] 2023-02-21 20:44:49.394 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 20:44:49.402 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-21 22:06:14.272 [main] Framework - URL Opened
+[INFO ] 2023-02-21 22:06:15.830 [main] Framework - Username entered.
+[INFO ] 2023-02-21 22:06:15.960 [main] Framework - Password entered.
+[INFO ] 2023-02-21 22:06:17.001 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 22:06:17.037 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-21 22:06:17.043 [main] Framework - Browser Closed.
+[INFO ] 2023-02-21 22:06:29.117 [main] Framework - URL Opened
+[INFO ] 2023-02-21 22:06:29.420 [main] Framework - Username entered.
+[INFO ] 2023-02-21 22:06:29.619 [main] Framework - Password entered.
+[INFO ] 2023-02-21 22:06:29.906 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-21 22:06:29.940 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-21 22:06:29.947 [main] Framework - Browser Closed.
+[INFO ] 2023-02-22 19:14:29.373 [main] Framework - URL Opened
+[INFO ] 2023-02-22 19:14:30.360 [main] Framework - Username entered.
+[INFO ] 2023-02-22 19:14:30.478 [main] Framework - Password entered.
+[INFO ] 2023-02-22 19:14:31.700 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 19:14:31.738 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 19:14:31.740 [main] Framework - Browser Closed.
+[INFO ] 2023-02-22 19:15:11.378 [main] Framework - URL Opened
+[INFO ] 2023-02-22 19:15:11.507 [main] Framework - Username entered.
+[INFO ] 2023-02-22 19:15:11.589 [main] Framework - Password entered.
+[INFO ] 2023-02-22 19:15:11.690 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 19:15:11.696 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-22 19:17:37.464 [main] Framework - URL Opened
+[INFO ] 2023-02-22 19:17:37.596 [main] Framework - Username entered.
+[INFO ] 2023-02-22 19:17:37.672 [main] Framework - Password entered.
+[INFO ] 2023-02-22 19:17:37.783 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 19:17:37.800 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-22 19:20:40.131 [main] Framework - URL Opened
+[INFO ] 2023-02-22 19:20:40.304 [main] Framework - Username entered.
+[INFO ] 2023-02-22 19:20:40.418 [main] Framework - Password entered.
+[INFO ] 2023-02-22 19:20:40.568 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 19:20:40.600 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-22 19:21:25.760 [main] Framework - URL Opened
+[INFO ] 2023-02-22 19:21:25.940 [main] Framework - Username entered.
+[INFO ] 2023-02-22 19:21:26.055 [main] Framework - Password entered.
+[INFO ] 2023-02-22 19:21:26.198 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 19:21:26.216 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 19:21:26.222 [main] Framework - Browser Closed.
+[INFO ] 2023-02-22 20:17:40.000 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:17:40.126 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:17:40.204 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:17:40.306 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:17:40.315 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:18:29.205 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:18:29.318 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:18:29.402 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:18:29.508 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:18:29.525 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:21:43.415 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:21:43.632 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:21:43.753 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:21:43.914 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:21:43.947 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:23:39.023 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:23:39.216 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:23:39.341 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:23:39.489 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:23:39.496 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:24:45.249 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:24:45.413 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:24:45.522 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:24:45.672 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:24:45.689 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:25:19.814 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:25:20.031 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:25:20.153 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:25:20.287 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:25:20.320 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:26:53.205 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:26:53.415 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:26:53.525 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:26:53.699 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:26:53.718 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:28:08.336 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:28:08.538 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:28:08.649 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:28:08.791 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:28:08.821 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:30:00.301 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:30:00.520 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:30:00.650 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:30:00.795 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:30:00.807 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:32:22.897 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:32:23.113 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:32:23.233 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:32:23.377 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:32:23.395 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:33:29.447 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:33:29.659 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:33:29.780 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:33:29.923 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:33:29.931 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 20:58:33.450 [main] Framework - URL Opened
+[INFO ] 2023-02-22 20:58:33.678 [main] Framework - Username entered.
+[INFO ] 2023-02-22 20:58:33.807 [main] Framework - Password entered.
+[INFO ] 2023-02-22 20:58:33.965 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 20:58:33.974 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-22 22:33:53.528 [main] Framework - URL Opened
+[INFO ] 2023-02-22 22:33:53.641 [main] Framework - Username entered.
+[INFO ] 2023-02-22 22:33:53.722 [main] Framework - Password entered.
+[INFO ] 2023-02-22 22:33:53.831 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-22 22:33:53.841 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 12:44:01.167 [main] Framework - URL Opened
+[INFO ] 2023-02-23 12:44:02.849 [main] Framework - Username entered.
+[INFO ] 2023-02-23 12:44:03.031 [main] Framework - Password entered.
+[INFO ] 2023-02-23 12:44:05.618 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 12:44:05.903 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 12:44:06.012 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 12:44:57.541 [main] Framework - URL Opened
+[INFO ] 2023-02-23 12:44:58.121 [main] Framework - Username entered.
+[INFO ] 2023-02-23 12:44:58.295 [main] Framework - Password entered.
+[INFO ] 2023-02-23 12:44:58.474 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 12:44:58.507 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 12:49:25.611 [main] Framework - URL Opened
+[INFO ] 2023-02-23 12:49:25.784 [main] Framework - Username entered.
+[INFO ] 2023-02-23 12:49:25.915 [main] Framework - Password entered.
+[INFO ] 2023-02-23 12:49:26.069 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 12:49:26.094 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 12:50:08.141 [main] Framework - URL Opened
+[INFO ] 2023-02-23 12:50:08.364 [main] Framework - Username entered.
+[INFO ] 2023-02-23 12:50:08.498 [main] Framework - Password entered.
+[INFO ] 2023-02-23 12:50:08.668 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 12:50:08.681 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 12:56:41.731 [main] Framework - URL Opened
+[INFO ] 2023-02-23 12:56:41.968 [main] Framework - Username entered.
+[INFO ] 2023-02-23 12:56:42.105 [main] Framework - Password entered.
+[INFO ] 2023-02-23 12:56:42.238 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 12:56:42.248 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 12:56:42.425 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 12:56:42.425 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 12:59:26.817 [main] Framework - URL Opened
+[INFO ] 2023-02-23 12:59:27.014 [main] Framework - Username entered.
+[INFO ] 2023-02-23 12:59:27.128 [main] Framework - Password entered.
+[INFO ] 2023-02-23 12:59:27.286 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 12:59:27.302 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:00:18.240 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:00:18.402 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:00:18.510 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:00:18.661 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:00:18.682 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:04:43.612 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:04:43.854 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:04:43.983 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:04:44.126 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:04:44.137 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:04:47.313 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:04:47.314 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:06:22.131 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:06:22.338 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:06:22.465 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:06:22.610 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:06:22.626 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:06:55.508 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:06:55.752 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:06:55.930 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:06:56.079 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:06:56.092 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:07:37.642 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:07:37.826 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:07:37.948 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:07:38.099 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:07:38.114 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:08:27.330 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:08:27.521 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:08:27.640 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:08:27.795 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:08:27.814 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:08:31.002 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:08:31.002 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:09:09.042 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:09:09.206 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:09:09.319 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:09:09.457 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:09:09.471 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:09:12.644 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:09:12.644 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:10:23.886 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:10:24.153 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:10:24.281 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:10:24.412 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:10:24.433 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:10:27.617 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:11:21.014 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:11:21.225 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:11:21.350 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:11:21.499 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:11:21.510 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:11:24.697 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:11:24.697 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:12:08.955 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:12:09.139 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:12:09.243 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:12:09.380 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:12:09.393 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:12:12.584 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:12:12.586 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:18:03.462 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:18:03.652 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:18:03.763 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:18:03.904 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:18:03.916 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:18:07.161 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:18:07.161 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:20:31.366 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:20:31.581 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:20:31.687 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:20:31.831 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:20:31.842 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:20:59.209 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:20:59.404 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:20:59.509 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:20:59.665 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:20:59.680 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:21:02.880 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:21:02.880 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:22:17.112 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:22:17.294 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:22:17.401 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:22:17.555 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:22:17.572 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:22:17.763 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:22:17.969 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:22:18.516 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:22:18.626 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:22:18.885 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:26:01.205 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:26:01.365 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:26:01.482 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:26:01.603 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:26:01.625 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:27:44.195 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:27:44.402 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:27:44.528 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:27:44.675 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:27:44.687 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:29:26.055 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:29:26.292 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:29:26.422 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:29:26.574 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:29:26.585 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:30:10.600 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:30:10.794 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:30:10.910 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:30:11.056 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:30:11.077 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:31:22.231 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:31:22.438 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:31:22.570 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:31:22.718 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:31:22.728 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:32:56.911 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:32:57.108 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:32:57.229 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:32:57.363 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:32:57.379 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:34:00.499 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:34:00.721 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:34:00.868 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:34:01.064 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:34:01.088 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:34:34.913 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:34:35.078 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:34:35.193 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:34:35.319 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:34:35.339 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:35:48.211 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:35:48.443 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:35:48.594 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:35:48.791 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:35:48.815 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:37:05.802 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:37:05.993 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:37:06.107 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:37:06.256 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:37:06.277 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:38:20.897 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:38:21.088 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:38:21.222 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:38:21.362 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:38:21.382 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:38:21.562 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:40:07.395 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:40:07.558 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:40:07.673 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:40:07.815 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:40:07.834 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:40:08.014 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:40:08.219 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:40:08.219 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:41:16.528 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:41:16.765 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:41:16.895 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:41:17.052 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:41:17.072 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:42:37.332 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:42:37.554 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:42:37.690 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:42:37.835 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:42:37.845 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:44:31.144 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:44:31.312 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:44:31.425 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:44:31.591 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:44:31.630 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:45:47.988 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:45:48.215 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:45:48.347 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:45:48.517 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:45:48.531 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:45:48.739 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:45:48.933 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:45:49.528 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:45:49.634 [main] Framework - VerifyProductC - Passed
+[INFO ] 2023-02-23 13:45:49.686 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 13:46:35.472 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:46:35.659 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:46:35.775 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:46:35.937 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:46:35.953 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:48:19.743 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:48:19.900 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:48:20.014 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:48:20.168 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:48:20.190 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-23 13:49:48.997 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:49:49.216 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:49:49.375 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:49:49.643 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:49:49.675 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:49:49.976 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:51:09.713 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:51:09.904 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:51:10.061 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:51:10.250 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:51:10.268 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:51:10.505 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:52:49.113 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:52:49.275 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:52:49.389 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:52:49.514 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:52:49.528 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:52:49.796 [main] Framework - VerifyProductF - Failed
+[INFO ] 2023-02-23 13:59:47.840 [main] Framework - URL Opened
+[INFO ] 2023-02-23 13:59:48.056 [main] Framework - Username entered.
+[INFO ] 2023-02-23 13:59:48.171 [main] Framework - Password entered.
+[INFO ] 2023-02-23 13:59:48.306 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 13:59:48.337 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 13:59:48.529 [main] Framework - VerifyProductP - Passed
+[INFO ] 2023-02-23 13:59:48.724 [main] Framework - VerifyCartpage - Failed
+[INFO ] 2023-02-23 14:17:04.738 [main] Framework - URL Opened
+[INFO ] 2023-02-23 14:17:04.895 [main] Framework - Username entered.
+[INFO ] 2023-02-23 14:17:05.003 [main] Framework - Password entered.
+[INFO ] 2023-02-23 14:17:05.158 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 14:17:05.187 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 14:17:05.378 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-23 14:17:05.546 [main] Framework - VerifyCartpage - Failed
+[INFO ] 2023-02-23 14:19:26.594 [main] Framework - URL Opened
+[INFO ] 2023-02-23 14:19:26.773 [main] Framework - Username entered.
+[INFO ] 2023-02-23 14:19:26.892 [main] Framework - Password entered.
+[INFO ] 2023-02-23 14:19:27.031 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 14:19:27.056 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-23 14:19:27.275 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-23 14:19:27.446 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-23 14:19:27.975 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-23 14:19:28.077 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-23 14:19:28.127 [main] Framework - Browser Closed.
+[INFO ] 2023-02-23 14:27:06.156 [main] Framework - URL Opened
+[INFO ] 2023-02-23 14:27:06.324 [main] Framework - Username entered.
+[INFO ] 2023-02-23 14:27:06.436 [main] Framework - Password entered.
+[INFO ] 2023-02-23 14:27:06.577 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-23 14:27:06.600 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-24 17:01:19.398 [main] Framework - URL Opened
+[INFO ] 2023-02-24 17:01:19.915 [main] Framework - Username entered.
+[INFO ] 2023-02-24 17:01:20.001 [main] Framework - Password entered.
+[INFO ] 2023-02-24 17:01:20.285 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 17:01:20.298 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 17:01:20.509 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 17:01:20.655 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 17:01:21.210 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 17:01:21.343 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 17:01:21.375 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 17:02:46.223 [main] Framework - URL Opened
+[INFO ] 2023-02-24 17:02:46.395 [main] Framework - Username entered.
+[INFO ] 2023-02-24 17:02:46.503 [main] Framework - Password entered.
+[INFO ] 2023-02-24 17:02:46.649 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 17:02:46.662 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 17:02:46.842 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 17:02:46.985 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 17:02:47.353 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 17:02:47.431 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 17:02:47.459 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 17:12:00.995 [main] Framework - URL Opened
+[INFO ] 2023-02-24 17:12:02.018 [main] Framework - Username entered.
+[INFO ] 2023-02-24 17:12:02.101 [main] Framework - Password entered.
+[INFO ] 2023-02-24 17:12:03.265 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 17:12:03.374 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 17:12:03.676 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 17:12:03.910 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 17:12:04.965 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 17:12:05.131 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 17:12:05.168 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 17:21:42.054 [main] Framework - URL Opened
+[INFO ] 2023-02-24 17:21:42.662 [main] Framework - Username entered.
+[INFO ] 2023-02-24 17:21:42.772 [main] Framework - Password entered.
+[INFO ] 2023-02-24 17:21:43.191 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 17:21:43.255 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 17:21:43.449 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 17:21:43.619 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 17:21:44.075 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 17:21:44.239 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 17:21:44.379 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 18:02:38.545 [main] Framework - URL Opened
+[INFO ] 2023-02-24 18:02:38.995 [main] Framework - Username entered.
+[INFO ] 2023-02-24 18:02:39.208 [main] Framework - Password entered.
+[INFO ] 2023-02-24 18:02:40.239 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 18:02:40.262 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 18:02:40.541 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 18:02:40.845 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 18:02:42.908 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 18:02:43.069 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 18:02:43.515 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 23:19:56.298 [main] Framework - URL Opened
+[INFO ] 2023-02-24 23:19:57.875 [main] Framework - Username entered.
+[INFO ] 2023-02-24 23:19:58.003 [main] Framework - Password entered.
+[INFO ] 2023-02-24 23:19:58.527 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 23:19:58.541 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 23:19:58.819 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 23:19:59.016 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 23:19:59.568 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 23:19:59.684 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 23:19:59.737 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 23:22:56.177 [main] Framework - URL Opened
+[INFO ] 2023-02-24 23:22:56.439 [main] Framework - Username entered.
+[INFO ] 2023-02-24 23:22:56.613 [main] Framework - Password entered.
+[INFO ] 2023-02-24 23:22:56.845 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 23:22:56.871 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 23:22:57.250 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 23:22:57.535 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 23:22:58.594 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 23:22:58.757 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 23:22:58.815 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 23:37:44.485 [main] Framework - URL Opened
+[INFO ] 2023-02-24 23:37:44.688 [main] Framework - Username entered.
+[INFO ] 2023-02-24 23:37:44.817 [main] Framework - Password entered.
+[INFO ] 2023-02-24 23:37:44.988 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 23:37:45.005 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 23:37:45.216 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 23:37:45.416 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 23:37:46.010 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 23:37:46.124 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 23:37:46.189 [main] Framework - Browser Closed.
+[INFO ] 2023-02-24 23:38:33.173 [main] Framework - URL Opened
+[INFO ] 2023-02-24 23:38:33.399 [main] Framework - Username entered.
+[INFO ] 2023-02-24 23:38:33.526 [main] Framework - Password entered.
+[INFO ] 2023-02-24 23:38:33.702 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-24 23:38:33.724 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-24 23:38:33.908 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-24 23:38:34.164 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-24 23:38:34.888 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-24 23:38:34.996 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-24 23:38:35.044 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:10:51.197 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:10:52.837 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:10:52.991 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:10:53.736 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:10:53.775 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:10:54.043 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:10:54.295 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:10:55.025 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:10:55.205 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:10:55.260 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:11:25.215 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:11:25.471 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:11:25.667 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:11:25.857 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:11:25.882 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:11:26.115 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:11:26.350 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:11:26.923 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:11:27.052 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:11:27.107 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:29:17.118 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:29:17.337 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:29:17.485 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:29:17.636 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:29:17.648 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:29:17.868 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:29:18.046 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:29:18.668 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:29:18.788 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:29:18.836 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:32:40.993 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:32:41.204 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:32:41.323 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:32:41.472 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:32:41.481 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:32:41.719 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:32:41.942 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:32:42.445 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:32:42.561 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:32:42.619 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:33:12.810 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:33:13.028 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:33:13.156 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:33:13.313 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:33:13.324 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:33:13.561 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:33:13.766 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:33:14.289 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:33:14.395 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:33:14.444 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:34:06.501 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:34:06.690 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:34:06.804 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:34:06.953 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:34:06.965 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:34:07.181 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:34:07.346 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:34:07.844 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:34:07.955 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:34:08.001 [main] Framework - Browser Closed.
+[INFO ] 2023-02-25 15:34:44.431 [main] Framework - URL Opened
+[INFO ] 2023-02-25 15:34:44.594 [main] Framework - Username entered.
+[INFO ] 2023-02-25 15:34:44.717 [main] Framework - Password entered.
+[INFO ] 2023-02-25 15:34:44.858 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-25 15:34:44.884 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-25 15:34:45.100 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-25 15:34:45.282 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-25 15:34:45.737 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-25 15:34:45.839 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-25 15:34:45.875 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 10:44:39.803 [main] Framework - URL Opened
+[INFO ] 2023-02-26 10:44:40.601 [main] Framework - Username entered.
+[INFO ] 2023-02-26 10:44:40.721 [main] Framework - Password entered.
+[INFO ] 2023-02-26 10:44:41.485 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 10:44:41.500 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 10:44:41.718 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 10:44:41.936 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 10:44:43.196 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 10:44:43.508 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 10:44:43.607 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 10:46:46.007 [main] Framework - URL Opened
+[INFO ] 2023-02-26 10:46:46.201 [main] Framework - Username entered.
+[INFO ] 2023-02-26 10:46:46.327 [main] Framework - Password entered.
+[INFO ] 2023-02-26 10:46:46.467 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 10:46:46.478 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 10:46:46.673 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 10:46:46.883 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 10:46:47.492 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 10:46:47.632 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 10:46:47.665 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:52:04.362 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:52:07.492 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:52:07.622 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:52:08.570 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:52:08.694 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:52:08.825 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:52:09.009 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:52:10.038 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:52:23.723 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:52:23.824 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:52:23.909 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:52:24.025 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:52:24.038 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-26 15:52:32.852 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:52:32.961 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:52:33.051 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:52:33.153 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:52:33.163 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:52:33.293 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:52:33.414 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:52:33.742 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:52:33.990 [main] Framework - Verifyoverviewpage - Passed
+[INFO ] 2023-02-26 15:52:33.993 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:52:40.878 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:52:41.005 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:52:41.116 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:52:41.265 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:52:41.279 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:52:41.483 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:52:41.687 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:52:42.215 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:52:42.305 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 15:52:42.726 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:52:49.041 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:52:49.167 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:52:49.282 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:52:49.428 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:52:49.447 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:52:49.642 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:52:49.822 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:52:49.822 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:52:56.036 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:52:56.278 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:52:56.476 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:52:56.752 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:52:56.841 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:53:00.445 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:53:00.445 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:53:54.527 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:53:54.725 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:53:54.844 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:53:55.007 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:53:55.032 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:53:55.207 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:53:55.371 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:53:55.856 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:54:01.839 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:54:01.997 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:54:02.123 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:54:02.304 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:54:02.315 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-26 15:54:08.900 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:54:08.993 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:54:09.073 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:54:09.173 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:54:09.180 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:54:09.314 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:54:09.450 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:54:10.142 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:54:10.278 [main] Framework - Verifyoverviewpage - Passed
+[INFO ] 2023-02-26 15:54:10.278 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:54:19.030 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:54:19.171 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:54:19.292 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:54:19.452 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:54:19.468 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:54:19.665 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:54:19.897 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:54:20.576 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:54:20.671 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 15:54:20.713 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:54:28.545 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:54:28.635 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:54:28.716 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:54:28.822 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:54:28.832 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:54:29.008 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:54:29.167 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:54:29.167 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:54:39.011 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:54:39.103 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:54:39.175 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:54:39.278 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:54:39.296 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:54:42.427 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:54:42.427 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 15:58:01.119 [main] Framework - URL Opened
+[INFO ] 2023-02-26 15:58:01.296 [main] Framework - Username entered.
+[INFO ] 2023-02-26 15:58:01.414 [main] Framework - Password entered.
+[INFO ] 2023-02-26 15:58:01.557 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 15:58:01.573 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 15:58:01.765 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 15:58:01.980 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 15:58:02.636 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 15:58:02.728 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 15:58:02.774 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 16:31:12.816 [main] Framework - URL Opened
+[INFO ] 2023-02-26 16:31:14.541 [main] Framework - Username entered.
+[INFO ] 2023-02-26 16:31:14.831 [main] Framework - Password entered.
+[INFO ] 2023-02-26 16:31:15.915 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 16:31:16.255 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 16:31:16.716 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 16:31:17.007 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 16:31:17.670 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 16:31:17.837 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 16:31:17.939 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 21:20:31.042 [main] Framework - URL Opened
+[INFO ] 2023-02-26 21:20:33.371 [main] Framework - Username entered.
+[INFO ] 2023-02-26 21:20:33.543 [main] Framework - Password entered.
+[INFO ] 2023-02-26 21:20:33.783 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 21:20:33.852 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 21:20:34.127 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 21:20:34.380 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 21:20:35.009 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 21:20:35.225 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 21:20:35.285 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 21:31:31.528 [main] Framework - URL Opened
+[INFO ] 2023-02-26 21:31:31.677 [main] Framework - Username entered.
+[INFO ] 2023-02-26 21:31:31.757 [main] Framework - Password entered.
+[INFO ] 2023-02-26 21:31:31.856 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 21:31:31.861 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 21:31:32.022 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 21:31:32.169 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 21:31:32.895 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 21:31:32.982 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 21:31:33.029 [main] Framework - Browser Closed.
+[INFO ] 2023-02-26 23:19:06.704 [main] Framework - URL Opened
+[INFO ] 2023-02-26 23:19:08.097 [main] Framework - Username entered.
+[INFO ] 2023-02-26 23:19:08.283 [main] Framework - Password entered.
+[INFO ] 2023-02-26 23:19:09.021 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-26 23:19:09.097 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-26 23:19:09.366 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-26 23:19:09.567 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-26 23:19:10.375 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-26 23:19:10.560 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-26 23:19:11.396 [main] Framework - Browser Closed.
+[INFO ] 2023-02-27 14:29:04.370 [main] Framework - URL Opened
+[INFO ] 2023-02-27 14:29:05.180 [main] Framework - Username entered.
+[INFO ] 2023-02-27 14:29:05.356 [main] Framework - Password entered.
+[INFO ] 2023-02-27 14:29:05.727 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-27 14:29:05.745 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-27 14:29:06.084 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-27 14:29:06.445 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-27 14:29:07.469 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-27 14:29:07.660 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-27 14:29:07.821 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 06:39:19.779 [main] Framework - URL Opened
+[INFO ] 2023-02-28 06:39:20.810 [main] Framework - Username entered.
+[INFO ] 2023-02-28 06:39:21.011 [main] Framework - Password entered.
+[INFO ] 2023-02-28 06:39:21.296 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 06:39:21.311 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 06:39:21.649 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 06:39:22.248 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 06:39:22.950 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 06:39:23.118 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 06:39:23.179 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 07:00:13.402 [main] Framework - URL Opened
+[INFO ] 2023-02-28 07:00:14.995 [main] Framework - Username entered.
+[INFO ] 2023-02-28 07:00:15.246 [main] Framework - Password entered.
+[INFO ] 2023-02-28 07:00:16.179 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 07:00:16.586 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 07:00:16.989 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 07:00:17.205 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 07:00:18.517 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 07:00:18.771 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 07:00:18.892 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 13:48:54.262 [main] Framework - URL Opened
+[INFO ] 2023-02-28 13:48:56.715 [main] Framework - Username entered.
+[INFO ] 2023-02-28 13:48:56.799 [main] Framework - Password entered.
+[INFO ] 2023-02-28 13:48:58.406 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 13:48:58.472 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 13:48:58.632 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 13:48:58.771 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 13:48:59.866 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 13:48:59.940 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 13:49:00.146 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 13:52:30.782 [main] Framework - URL Opened
+[INFO ] 2023-02-28 13:52:30.990 [main] Framework - Username entered.
+[INFO ] 2023-02-28 13:52:31.130 [main] Framework - Password entered.
+[INFO ] 2023-02-28 13:52:31.291 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 13:52:31.314 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 13:52:31.522 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 13:52:31.734 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 13:52:32.696 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 13:52:32.773 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 13:52:32.804 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 13:56:02.950 [main] Framework - URL Opened
+[INFO ] 2023-02-28 13:56:03.160 [main] Framework - Username entered.
+[INFO ] 2023-02-28 13:56:03.282 [main] Framework - Password entered.
+[INFO ] 2023-02-28 13:56:03.460 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 13:56:03.475 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 13:56:03.720 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 13:56:03.992 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 13:56:04.509 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 13:56:04.652 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 13:56:04.724 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 19:14:30.009 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:14:32.215 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:14:32.362 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:14:33.589 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:14:33.605 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:14:33.900 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:14:34.115 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:14:34.645 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:14:34.749 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:16:16.930 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:16:17.142 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:16:17.263 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:16:17.427 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:16:17.444 [main] Framework - VerifyLogin-Failed
+[INFO ] 2023-02-28 19:17:44.321 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:17:44.551 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:17:44.670 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:17:44.841 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:17:44.859 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:17:44.862 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 19:18:06.136 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:18:06.351 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:18:06.469 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:18:06.629 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:18:06.651 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:18:06.853 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:18:07.071 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:18:07.641 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:18:07.830 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:18:58.282 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:18:58.508 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:18:58.640 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:18:58.825 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:18:58.848 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:18:59.080 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:18:59.295 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:18:59.295 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 19:20:05.514 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:20:05.705 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:20:05.817 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:20:05.976 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:20:05.989 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:20:06.197 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:20:06.388 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:20:06.894 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:20:32.518 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:20:32.732 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:20:32.855 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:20:33.029 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:20:33.043 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:20:33.291 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:20:33.499 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:20:34.009 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:20:34.111 [main] Framework - Verifyoverviewpage - Passed
+[INFO ] 2023-02-28 19:20:34.111 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 19:21:31.189 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:21:31.385 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:21:31.507 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:21:31.659 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:21:31.681 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:21:31.875 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:21:32.079 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:21:32.618 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:21:32.715 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:23:02.434 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:23:02.658 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:23:02.774 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:23:02.934 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:23:02.954 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:23:03.138 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:23:03.328 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:23:03.838 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:23:03.955 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:29:37.490 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:29:37.672 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:29:37.793 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:29:37.937 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:29:37.953 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:29:38.139 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:29:38.350 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:29:38.849 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:29:38.957 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:32:19.662 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:32:19.895 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:32:20.010 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:32:20.168 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:32:20.184 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:32:20.205 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 19:32:45.348 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:32:45.569 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:32:45.707 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:32:45.863 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:32:45.879 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:32:46.125 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:32:46.347 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:32:46.860 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:32:46.958 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:33:31.695 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:33:31.916 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:33:32.055 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:33:32.243 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:33:32.257 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:33:32.497 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:33:32.752 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:33:33.324 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:33:33.452 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:34:08.144 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:34:08.369 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:34:08.525 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:34:08.713 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:34:08.731 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:34:09.010 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:34:09.227 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:34:09.766 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:34:09.995 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:38:20.543 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:38:20.749 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:38:20.871 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:38:21.012 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:38:21.031 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:38:21.219 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:38:21.398 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:38:21.867 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:38:21.971 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:38:27.162 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 19:40:14.634 [main] Framework - URL Opened
+[INFO ] 2023-02-28 19:40:14.844 [main] Framework - Username entered.
+[INFO ] 2023-02-28 19:40:14.988 [main] Framework - Password entered.
+[INFO ] 2023-02-28 19:40:15.150 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 19:40:18.185 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 19:40:18.385 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 19:40:18.552 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 19:40:19.018 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 19:40:19.127 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 19:40:21.184 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 21:10:10.595 [main] Framework - URL Opened
+[INFO ] 2023-02-28 21:10:11.394 [main] Framework - Username entered.
+[INFO ] 2023-02-28 21:10:11.477 [main] Framework - Password entered.
+[INFO ] 2023-02-28 21:10:11.582 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 21:10:11.595 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 21:10:11.801 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 21:10:11.931 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 21:10:12.283 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 21:10:12.362 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 21:10:14.396 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 21:10:35.278 [main] Framework - URL Opened
+[INFO ] 2023-02-28 21:10:35.466 [main] Framework - Username entered.
+[INFO ] 2023-02-28 21:10:35.597 [main] Framework - Password entered.
+[INFO ] 2023-02-28 21:10:35.770 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 21:10:35.795 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 21:10:36.015 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 21:10:36.203 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 21:10:36.612 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 21:10:36.680 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 21:10:38.880 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 21:15:07.892 [main] Framework - URL Opened
+[INFO ] 2023-02-28 21:15:08.090 [main] Framework - Username entered.
+[INFO ] 2023-02-28 21:15:08.201 [main] Framework - Password entered.
+[INFO ] 2023-02-28 21:15:08.348 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 21:15:08.359 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 21:15:08.555 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 21:15:08.760 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 21:15:09.243 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 21:15:09.348 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 21:15:11.410 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 21:17:27.524 [main] Framework - URL Opened
+[INFO ] 2023-02-28 21:17:27.726 [main] Framework - Username entered.
+[INFO ] 2023-02-28 21:17:27.949 [main] Framework - Password entered.
+[INFO ] 2023-02-28 21:17:28.129 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 21:17:28.143 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 21:17:28.359 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 21:17:28.557 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 21:17:29.048 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 21:17:29.149 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 21:17:31.206 [main] Framework - Browser Closed.
+[INFO ] 2023-02-28 21:30:33.784 [main] Framework - URL Opened
+[INFO ] 2023-02-28 21:30:35.371 [main] Framework - Username entered.
+[INFO ] 2023-02-28 21:30:35.498 [main] Framework - Password entered.
+[INFO ] 2023-02-28 21:30:35.659 [main] Framework - Login button get clicked.
+[INFO ] 2023-02-28 21:30:35.698 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-02-28 21:30:35.949 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-02-28 21:30:36.163 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-02-28 21:30:36.683 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-02-28 21:30:36.787 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-02-28 21:30:39.003 [main] Framework - Browser Closed.
+[INFO ] 2023-03-01 19:46:09.229 [main] Framework - URL Opened
+[INFO ] 2023-03-01 19:46:10.417 [main] Framework - Username entered.
+[INFO ] 2023-03-01 19:46:10.532 [main] Framework - Password entered.
+[INFO ] 2023-03-01 19:46:11.642 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-01 19:46:11.665 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-01 19:46:12.059 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-01 19:46:12.283 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-01 19:46:12.653 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-01 19:46:12.717 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-01 19:46:14.845 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 14:36:37.814 [main] Framework - URL Opened
+[INFO ] 2023-03-02 14:36:38.388 [main] Framework - Username entered.
+[INFO ] 2023-03-02 14:36:38.868 [main] Framework - Password entered.
+[INFO ] 2023-03-02 14:36:39.057 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 14:36:39.078 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 14:36:39.404 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 14:36:39.727 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 14:36:40.204 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 14:36:40.325 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 14:36:42.365 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 14:52:10.701 [main] Framework - URL Opened
+[INFO ] 2023-03-02 14:52:10.877 [main] Framework - Username entered.
+[INFO ] 2023-03-02 14:52:10.961 [main] Framework - Password entered.
+[INFO ] 2023-03-02 14:52:11.095 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 14:52:11.104 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 14:52:11.327 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 14:52:11.542 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 14:52:12.282 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 14:52:12.353 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 14:52:14.394 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 14:53:40.878 [main] Framework - URL Opened
+[INFO ] 2023-03-02 14:53:41.123 [main] Framework - Username entered.
+[INFO ] 2023-03-02 14:53:41.272 [main] Framework - Password entered.
+[INFO ] 2023-03-02 14:53:41.461 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 14:53:41.475 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 14:53:41.739 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 14:53:41.970 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 14:53:42.535 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 14:53:42.648 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 14:53:44.704 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 15:00:29.749 [main] Framework - URL Opened
+[INFO ] 2023-03-02 15:00:29.936 [main] Framework - Username entered.
+[INFO ] 2023-03-02 15:00:30.061 [main] Framework - Password entered.
+[INFO ] 2023-03-02 15:00:30.187 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 15:00:30.196 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 15:00:30.917 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 15:00:31.164 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 15:00:31.870 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 15:00:32.041 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 15:00:34.156 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 16:30:53.470 [main] Framework - URL Opened
+[INFO ] 2023-03-02 16:30:55.046 [main] Framework - Username entered.
+[INFO ] 2023-03-02 16:30:55.350 [main] Framework - Password entered.
+[INFO ] 2023-03-02 16:30:55.992 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 16:30:56.007 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 16:30:56.291 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 16:30:56.566 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 16:30:57.176 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 16:30:57.354 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 16:30:59.607 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 16:43:59.076 [main] Framework - URL Opened
+[INFO ] 2023-03-02 16:43:59.400 [main] Framework - Username entered.
+[INFO ] 2023-03-02 16:43:59.568 [main] Framework - Password entered.
+[INFO ] 2023-03-02 16:43:59.826 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 16:43:59.907 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 16:44:00.331 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 16:44:00.671 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 16:44:01.558 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 16:44:01.694 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 16:44:03.747 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 16:46:19.832 [main] Framework - URL Opened
+[INFO ] 2023-03-02 16:46:20.240 [main] Framework - Username entered.
+[INFO ] 2023-03-02 16:46:20.491 [main] Framework - Password entered.
+[INFO ] 2023-03-02 16:46:20.771 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 16:46:20.866 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 16:46:21.541 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 16:46:21.852 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 16:46:22.365 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 16:46:22.493 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 16:46:24.555 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 16:46:49.246 [main] Framework - URL Opened
+[INFO ] 2023-03-02 16:46:49.482 [main] Framework - Username entered.
+[INFO ] 2023-03-02 16:46:49.618 [main] Framework - Password entered.
+[INFO ] 2023-03-02 16:46:49.800 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 16:46:49.822 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 16:46:50.165 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 16:46:50.508 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 16:46:51.584 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 16:46:51.718 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 16:46:53.780 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 16:48:30.648 [main] Framework - URL Opened
+[INFO ] 2023-03-02 16:48:30.913 [main] Framework - Username entered.
+[INFO ] 2023-03-02 16:48:31.075 [main] Framework - Password entered.
+[INFO ] 2023-03-02 16:48:31.234 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 16:48:31.249 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 16:48:31.497 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 16:48:31.693 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 16:48:32.210 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 16:48:32.320 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 16:48:34.381 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 16:55:54.280 [main] Framework - URL Opened
+[INFO ] 2023-03-02 16:55:57.105 [main] Framework - Username entered.
+[INFO ] 2023-03-02 16:55:57.614 [main] Framework - Password entered.
+[INFO ] 2023-03-02 16:55:59.858 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 16:55:59.931 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 16:56:00.456 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 16:56:01.005 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 16:56:04.339 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 16:56:04.623 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 16:56:07.254 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 17:05:43.282 [main] Framework - URL Opened
+[INFO ] 2023-03-02 17:05:45.423 [main] Framework - Username entered.
+[INFO ] 2023-03-02 17:05:45.671 [main] Framework - Password entered.
+[INFO ] 2023-03-02 17:05:46.478 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 17:05:46.532 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 17:05:46.917 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 17:05:47.326 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 17:05:47.962 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 17:05:48.134 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 17:05:50.631 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 20:22:56.362 [main] Framework - URL Opened
+[INFO ] 2023-03-02 20:22:58.753 [main] Framework - Username entered.
+[INFO ] 2023-03-02 20:22:58.848 [main] Framework - Password entered.
+[INFO ] 2023-03-02 20:22:59.864 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 20:22:59.890 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 20:23:00.211 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 20:23:00.393 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 20:23:00.762 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 20:23:00.844 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 20:23:03.357 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 20:32:14.335 [main] Framework - URL Opened
+[INFO ] 2023-03-02 20:32:15.543 [main] Framework - Username entered.
+[INFO ] 2023-03-02 20:32:15.658 [main] Framework - Password entered.
+[INFO ] 2023-03-02 20:32:16.295 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 20:32:16.309 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 20:32:16.514 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 20:32:16.657 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 20:32:16.995 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 20:32:17.059 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 20:32:19.372 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 20:33:34.548 [main] Framework - URL Opened
+[INFO ] 2023-03-02 20:33:34.763 [main] Framework - Username entered.
+[INFO ] 2023-03-02 20:33:34.872 [main] Framework - Password entered.
+[INFO ] 2023-03-02 20:33:35.013 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 20:33:35.024 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 20:33:35.170 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 20:33:35.319 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 20:33:35.669 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 20:33:35.747 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 20:33:37.790 [main] Framework - Browser Closed.
+[INFO ] 2023-03-02 20:35:38.752 [main] Framework - URL Opened
+[INFO ] 2023-03-02 20:35:38.881 [main] Framework - Username entered.
+[INFO ] 2023-03-02 20:35:38.958 [main] Framework - Password entered.
+[INFO ] 2023-03-02 20:35:39.061 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-02 20:35:39.073 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-02 20:35:39.213 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-02 20:35:39.366 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-02 20:35:39.707 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-02 20:35:39.793 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-02 20:35:41.835 [main] Framework - Browser Closed.
+[INFO ] 2023-03-03 11:43:49.495 [main] Framework - URL Opened
+[INFO ] 2023-03-03 11:43:51.073 [main] Framework - Username entered.
+[INFO ] 2023-03-03 11:43:51.193 [main] Framework - Password entered.
+[INFO ] 2023-03-03 11:43:51.892 [main] Framework - Login button get clicked.
+[INFO ] 2023-03-03 11:43:51.920 [main] Framework - VerifyLogin -Passed
+[INFO ] 2023-03-03 11:43:52.172 [main] Framework - VerifyProductpage - Passed
+[INFO ] 2023-03-03 11:43:52.413 [main] Framework - VerifyCartpage - Passed
+[INFO ] 2023-03-03 11:43:53.023 [main] Framework - Verifyinfopage - Passed
+[INFO ] 2023-03-03 11:43:53.214 [main] Framework - Verifyoverview - Passed
+[INFO ] 2023-03-03 11:43:55.329 [main] Framework - Browser Closed.
